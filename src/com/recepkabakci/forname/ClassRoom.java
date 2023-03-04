@@ -1,4 +1,4 @@
-package com.bilgeadam.forname;
+package com.recepkabakci.forname;
 
 public class ClassRoom {
 	

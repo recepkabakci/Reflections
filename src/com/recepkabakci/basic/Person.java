@@ -1,4 +1,4 @@
-package com.bilgeadam.basic;
+package com.recepkabakci.basic;
 
 public class Person {
 	

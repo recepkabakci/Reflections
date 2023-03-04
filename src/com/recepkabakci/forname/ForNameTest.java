@@ -1,4 +1,4 @@
-package com.bilgeadam.forname;
+package com.recepkabakci.forname;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

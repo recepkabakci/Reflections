@@ -1,4 +1,4 @@
-package com.bilgeadam.basic;
+package com.recepkabakci.basic;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
